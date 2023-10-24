@@ -183,8 +183,8 @@ body {
 @media (max-width: 1000px) {
     .lists {
         position: absolute;
-        height: 100%;
-        width: 100%;
+        height: 100vh;
+        width: 100vw;
         z-index: 50;
         display: none;
     }
